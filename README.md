@@ -13,7 +13,7 @@ If your e-mail is accepted you will be asked to verify that you have access by c
 
 Once your e-mail has been verified the administrator will be notified of your request. When it is approved you will receive an invitation sent by GitHub. *You need to accept this invitation to get access*.
 
-You will periodically (once every 6 months or so) receive an e-mail from the system asking you to verify your e-mail again. If you do not response in a timely manner your access will be revoked. If you still have access to the e-mail in question you can uninstall the GitHub App and repeat the steps above to restore access.
+You will periodically (once every 6 months or so) receive an e-mail from the system asking you to verify your e-mail again. If you do not respond in a timely manner your access will be revoked. If you lose access unexpectedly you can uninstall and reinstall the GitHub App and repeat the steps above to restore access.
 
 ### Support or Contact
 
