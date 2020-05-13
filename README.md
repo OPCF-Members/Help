@@ -11,6 +11,8 @@ When the GitHub App is installed you will be directed to a website that will che
 
 If your e-mail is accepted you will be asked to verify that you have access by clicking on a link sent to you. This link will be sent by mail.admin@opcfoundation.org. Please check junk mail settings if you do not receive the email.
 
+You can request that the verification email be resent from this [page](https://apps.opcfoundation.org/registration/).
+
 Once your e-mail has been verified the administrator will be notified of your request. When it is approved you will receive an invitation sent by GitHub. *You need to accept this invitation to get access*.
 
 You will periodically (once every 6 months or so) receive an e-mail from the system asking you to verify your e-mail again. If you do not respond in a timely manner your access will be revoked. If you lose access unexpectedly you can uninstall and reinstall the GitHub App and repeat the steps above to restore access.
