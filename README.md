@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to OPC Foundation Member's GitHub
 
-You can use the [editor on GitHub](https://github.com/OPCF-Members/Help/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+These respositories contain projects with draft and release candidate material that are available to OPC Foundation Corporate Members only. Anyone who has an e-mail for a current Corporate Member can request access.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Requesting Access
+The GitHub Application can be found [here](https://github.com/apps/opc-corporate-member-verification).
 
-### Markdown
+This application must be installed in individual GitHub accounts. It will not work if it is installed on an organization.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When the GitHub App is installed you will be directed to a website that will check the e-mails associated with your GitHub account and confirm that the e-mail domain belongs to an OPC Foundation Corporate member. 
 
-```markdown
-Syntax highlighted code block
+If your e-mail is accepted you will be asked to verify that you have access by clicking on a link sent to you. This link will be sent by mail.admin@opcfoundation.org. Please check junk mail settings if you do not receive the email.
 
-# Header 1
-## Header 2
-### Header 3
+Once your e-mail has been verified the administrator will be notified of your request. When it is approved you will receive an invitation sent by GitHub. *You need to accept this invitation to get access*.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OPCF-Members/Help/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You will periodically (once every 6 months or so) receive an e-mail from the system asking you to verify your e-mail again. If you do not response in a timely manner your access will be revoked. If you still have access to the e-mail in question you can uninstall the GitHub App and repeat the steps above to restore access.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any problems with the application please send an email to github@opcfoundation.org.
