@@ -5,7 +5,7 @@ These respositories contain projects with draft and release candidate material t
 ### Requesting Access
 The GitHub Application can be found [here](https://github.com/apps/opc-corporate-member-verification).
 
-This application must be installed in individual GitHub accounts. It will not work if it is installed on an organization.
+This application must be installed an **individual** GitHub account. It will **not** work if it is installed on an organization.
 
 When the GitHub App is installed you will be directed to a website that will check the e-mails associated with your GitHub account and confirm that the e-mail domain belongs to an OPC Foundation Corporate member. 
 
