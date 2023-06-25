@@ -11,7 +11,7 @@ Getting access requires that someone log into their OPC Foundation website accou
 
 Access must be renewed every 90 days to ensure people still have access (companies can drop their membership or people leave the member company).
 
-Warning emails will be sent out after 80 days of inactivity. If the warning emails are missed or ignored then access can be restored by re-linking a GitGub account.
+Warning emails will be sent out after 80 days of inactivity. If the warning emails are missed or ignored then access can be restored by re-linking a GitHub account.
 
 ### Support or Contact
 
