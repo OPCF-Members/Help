@@ -1,6 +1,6 @@
 ## Welcome to OPC Foundation Member's GitHub
 
-These respositories contain projects with draft and release candidate material that are available to OPC Foundation Members only. Anyone who has an e-mail for a current paying member can request access.
+These respositories contain projects with draft and release candidate material that are available to OPC Foundation Members only.
 
 ### Requesting Access
 Access is managed by the application [here](https://utilities.opcfoundation.org/account).
