@@ -1,21 +1,17 @@
 ## Welcome to OPC Foundation Member's GitHub
 
-These respositories contain projects with draft and release candidate material that are available to OPC Foundation Corporate Members only. Anyone who has an e-mail for a current Corporate Member can request access.
+These respositories contain projects with draft and release candidate material that are available to OPC Foundation Members only. Anyone who has an e-mail for a current paying member can request access.
 
 ### Requesting Access
-The GitHub Application can be found [here](https://github.com/apps/opc-corporate-member-verification).
+Access is managed by the application [here](https://utilities.opcfoundation.org/account).
 
-This application must be installed an **individual** GitHub account. It will **not** work if it is installed on an organization.
+Anyone who has a email provided by a paying member of the OPC Foundation may request access (Logo Members do not qualify). 
 
-When the GitHub App is installed you will be directed to a website that will check the e-mails associated with your GitHub account and confirm that the e-mail domain belongs to an OPC Foundation Corporate member. 
+Getting access requires that someone log into their OPC Foundation website account and then login to the GitHub account they want to use. The application allows a GitHub account to be linked to an OPC Foundation website account.
 
-If your e-mail is accepted you will be asked to verify that you have access by clicking on a link sent to you. This link will be sent by mail.admin@opcfoundation.org. Please check junk mail settings if you do not receive the email.
+Access must be renewed every 90 days to ensure people still have access (companies can drop their membership or people leave the member company).
 
-You can request that the verification email be resent from this [page](https://apps.opcfoundation.org/registration/).
-
-Once your e-mail has been verified the administrator will be notified of your request. When it is approved you will receive an invitation sent by GitHub. *You need to accept this invitation to get access*.
-
-You will periodically (once every 6 months or so) receive an e-mail from the system asking you to verify your e-mail again. If you do not respond in a timely manner your access will be revoked. If you lose access unexpectedly you can uninstall and reinstall the GitHub App and repeat the steps above to restore access.
+Warning emails will be sent out after 80 days of inactivity. If the warning emails are missed or ignored then access can be restored by re-linking a GitGub account.
 
 ### Support or Contact
 
